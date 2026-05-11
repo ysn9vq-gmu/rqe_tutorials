@@ -1,0 +1,13 @@
+# add other ignore files extensions here
+# especially ignore data files
+# Note, this is also a nice way to keep empty folders
+
+*.txt
+*.dat
+*.bin
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+*/*PKG*
